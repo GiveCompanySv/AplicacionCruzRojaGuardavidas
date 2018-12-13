@@ -1,2 +1,2 @@
 # AplicacionCruzRojaGuardavidas
-Aplicacion utilizada para el control de el cuerpo filial de guardavidas.
+aplicacion utilizada para el control de el cuerop filial de guardavidas
